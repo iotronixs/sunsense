@@ -168,7 +168,7 @@ This project demonstrates integration of sensors, displays, and storage on a com
 
 ## Code Structure
 - `sunsense.ino`: Main Arduino sketch handling setup and loop.
-- `dashboard.cpp` / `dashboard.h`: Manages TFT display rendering and UI.
+- `dashboard.cpp` / `dashboard.h`: Manages dashboard rendering and UI.
 - `storage.cpp` / `storage.h`: Handles data persistence and logging.
 
 ## Contributing
