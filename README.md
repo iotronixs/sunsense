@@ -12,6 +12,7 @@
 **Real-time UV Radiation Monitoring with ESP32-C3**
 
 # SunSense UV Monitoring Device
+Build For CREATEd
 
 ## Project Overview
 SunSense is an IoT-enabled UV radiation monitoring device designed to measure and display ultraviolet (UV) levels in real-time. It utilizes an ESP32-C3 microcontroller for processing, a GY-ML8511 UV sensor for accurate readings, and a 1.8-inch SPI TFT display (128x160 resolution) for visualizing data. The project includes data storage capabilities for logging UV exposure over time, making it ideal for applications in personal health monitoring, outdoor activities, or environmental sensing.
